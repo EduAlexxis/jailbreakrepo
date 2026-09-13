@@ -1,0 +1,30 @@
+Package: com.edualexxis.gphotospixeltweak
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: EduAlexxis
+Depends: preferenceloader
+Filename: ./debs/com.edualexxis.gphotospixeltweak_1.1.0_iphoneos-arm64.deb
+Size: 45962
+MD5sum: 5541a3586e4e540578b3fa7e0a9e9557
+SHA1: 9f657c418ad2573485e136d0d632172e7ed04a30
+SHA256: d3d745ac588449cbf73a3e57e0ace6529758e2cd28f380e89ea175329e885fba
+Section: Tweaks
+Description: Spoofs Google Photos as a Pixel for original-quality backups.
+Author: EduAlexxis
+Name: GPhotosPixelTweak
+
+Package: com.edualexxis.gphotospixeltweak
+Version: 1.1.0
+Architecture: iphoneos-arm64e
+Maintainer: EduAlexxis
+Depends: preferenceloader
+Filename: ./debs/com.edualexxis.gphotospixeltweak_1.1.0_iphoneos-arm64e.deb
+Size: 45962
+MD5sum: 7236b6654a565431a7a28ad0dbbf2471
+SHA1: 08e0ebcb7670cb5f8225add92c1a07139778d6b2
+SHA256: 879f89102bd1ae021d6a0926f1e59fcccd2ca1e226f1245aed64629c48a6d4d5
+Section: Tweaks
+Description: Spoofs Google Photos as a Pixel for original-quality backups.
+Author: EduAlexxis
+Name: GPhotosPixelTweak
+
