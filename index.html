@@ -20,14 +20,15 @@
       --amber: #ffb454;
     }
     * { box-sizing: border-box; }
-    html, body {
+    html {
+      height: 100%;
+    }
+    body {
       margin: 0;
-      min-height: 100%;
+      min-height: 100vh;
       background: radial-gradient(circle at 50% -10%, #0f1d14, var(--bg) 60%);
       color: var(--text);
       font-family: 'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace;
-    }
-    body {
       display: flex;
       align-items: center;
       justify-content: center;
@@ -145,9 +146,9 @@
     <span class="path">edualexxis@jailbreak:~/repo</span>
   </div>
   <div class="screen">
-    <div class="prompt-line"><span class="prompt">edualexxis@repo</span>:~$ cat welcome.txt</div>
+    <div class="prompt-line"><span class="prompt">edualexxis@repo</span>:~$ cat /etc/motd</div>
 
-    <h1>EduAlexxis's Jailbreak Repo<span class="cursor"></span></h1>
+    <h1>EduAlexxis's Jailbreak Repo</h1>
     <p class="desc">A personal <span class="hl">Cydia / Sileo / Zebra / Installer</span> source. Point your package manager here to pull tweaks straight from the source.</p>
 
     <hr class="divider">
