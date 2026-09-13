@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "Spoofs Google Photos as a Pixel for original-quality backups.",
+          "text": "Spoofs Google Photos as a Pixel for unlimited original-quality backups.",
           "fontSize": 15
         },
         {
@@ -27,7 +27,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Google Photos only keeps **original quality** (no compression) for photos and videos backed up from a small list of Pixel phones. GPhotosPixelTweak makes the Google Photos app believe your device is one of those Pixels, so your uploads stay full quality instead of getting compressed."
+          "markdown": "Google Photos only allows unlimited **original quality** (no compression) for photos and videos backed up for free to the owners of the 1st generation of Pixel phones. GPhotosPixelTweak makes the Google Photos app believe your device is one of those Pixels, so your uploads stay full quality instead of getting compressed. FOR FREE!!!"
         },
         {
           "class": "DepictionSeparatorView"
