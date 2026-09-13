@@ -1,0 +1,81 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#39FF88",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "GPhotosPixelTweak",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Spoofs Google Photos as a Pixel for original-quality backups.",
+          "fontSize": 15
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "How it works",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Google Photos only keeps **original quality** (no compression) for photos and videos backed up from a small list of Pixel phones. GPhotosPixelTweak makes the Google Photos app believe your device is one of those Pixels, so your uploads stay full quality instead of getting compressed."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Package Info",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.1.0"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Bundle ID",
+          "text": "com.edualexxis.gphotospixeltweak"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "EduAlexxis"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Depends",
+          "text": "PreferenceLoader"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Changelog",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "1.1.0 — Initial release",
+          "fontSize": 13
+        }
+      ]
+    }
+  ]
+}

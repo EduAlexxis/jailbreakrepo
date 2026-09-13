@@ -11,6 +11,7 @@ SHA256: d3d745ac588449cbf73a3e57e0ace6529758e2cd28f380e89ea175329e885fba
 Section: Tweaks
 Description: Spoofs Google Photos as a Pixel for original-quality backups.
 Author: EduAlexxis
+SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.gphotospixeltweak/native.json
 Name: GPhotosPixelTweak
 
 Package: com.edualexxis.gphotospixeltweak
@@ -26,5 +27,6 @@ SHA256: 879f89102bd1ae021d6a0926f1e59fcccd2ca1e226f1245aed64629c48a6d4d5
 Section: Tweaks
 Description: Spoofs Google Photos as a Pixel for original-quality backups.
 Author: EduAlexxis
+SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.gphotospixeltweak/native.json
 Name: GPhotosPixelTweak
 
