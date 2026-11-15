@@ -1,0 +1,116 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#39FF88",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "ByeTunes",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Downloads, synced lyrics, motion artwork, and library tools for Apple Music.",
+          "fontSize": 15
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Downloads and imports",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Add download buttons in Search and on supported artist, album, and playlist pages. Choose FLAC, MP3, or FLAC with MP3 fallback; skip tracks already in your library; and manage a multi-song queue with pause, resume, cancel, remove, and retry controls. Import audio files, folders, and M3U playlists, or match Spotify and Deezer links to Apple Music. Playlist links can create a playlist in your library."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Timed lyrics and Sing",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fetch timed lyrics for songs or your whole library, search manually, edit lyrics, and fine-tune their timing. Choose free LRCLIB or Musixmatch with your own token, and have lyrics open automatically in Now Playing. On compatible devices with iOS 16.2 or later, ByeTunes can enable Apple Music Sing's vocal slider."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Animated artwork",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Bring animated album covers to Now Playing. Choose the standard square motion cover or the immersive **iOS 26** style, which uses tall artwork and blends into the album's colors. Animation pauses in Low Power Mode."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Library and playlists",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Pin up to six favorite artists, albums, and playlists at the top of your Library. Build smart playlists and keep Loved, Most Played, Recently Played, and Top Rated playlists up to date. Import local music, fetch metadata and lyrics for playlists, show star ratings, clean up ghost entries, and repair sort order. Pinning includes iOS 16-specific Library list handling; playlist and maintenance database paths are included on iOS 16 but have less device verification than on iOS 15."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Customize Apple Music",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Reorder and choose which tabs appear, add a Downloads tab, filter search categories, choose a default search tab, and follow download or metadata progress with the status banner."
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**iOS 15 and iOS 16**\nAnimated artwork, downloads, and interface tools support both versions. Timed lyrics use different Music integrations on iOS 15 and 16; the iOS 15 timed-lyrics hook is unavailable on arm64e devices. Apple Music Sing requires iOS 16.2+ and compatible hardware; this option is marked untested in the current project changelog."
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Package Info",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.9.9"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Bundle ID",
+          "text": "com.edualexxis.bytunes"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "EduAlexxis"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Changelog",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.",
+          "fontSize": 13
+        }
+      ]
+    }
+  ]
+}

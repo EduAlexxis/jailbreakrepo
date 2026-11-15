@@ -30,8 +30,9 @@ MD5sum: c9868f1fc24852579e3e60d04c90e70f
 SHA1: 8bd127d4b7903d4ab2e4e98b6b7466e1d3869ae5
 SHA256: 2608f254ef879c3751d3e7b45a0113d6f23ddd2942628e29653c77835e110390
 Section: Tweaks
-Description: Downloads, lyrics & tools for Apple Music.
-SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/native-v2.json
+Description: Downloads, synced lyrics, motion artwork, and library tools for Apple Music.
+SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/native-v3.json
+Icon: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/icon.png
 
 Package: com.edualexxis.gphotospixeltweak
 Version: 1.1.0

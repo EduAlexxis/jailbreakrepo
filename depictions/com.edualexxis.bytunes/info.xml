@@ -2,14 +2,15 @@
 <package>
 	<name>ByeTunes</name>
 	<version>1.9.9</version>
-	<shortDescription>Downloads, lyrics &amp; tools for Apple Music.</shortDescription>
+	<shortDescription>Downloads, synced lyrics, motion artwork, and library tools for Apple Music.</shortDescription>
 	<descriptionlist>
-		<description>Make Apple Music your own. ByeTunes adds powerful tools for your library, downloads, lyrics, playlists, and interface on iOS 15 and iOS 16.</description>
-		<description>DOWNLOAD MUSIC — Save songs, albums, and playlists to your library, with artwork and metadata. Import audio files and folders, or bring in Spotify and Deezer links. A built-in queue lets you pause, resume, retry, and manage downloads.</description>
-		<description>LYRICS THAT MOVE WITH THE MUSIC — Fetch timed lyrics for songs and your library, edit lyrics yourself, and find lyrics manually. Choose a lyrics source, adjust timing, and open lyrics automatically. Apple Music Sing's vocal slider is available on iOS 16.2 and later.</description>
-		<description>MAKE YOUR LIBRARY YOURS — Create and manage regular and smart playlists, pin favorite items, fetch metadata and lyrics for a playlist, and keep your library tidy with maintenance tools.</description>
-		<description>SHAPE THE INTERFACE — Customize the tab bar and search tabs, add a Downloads tab, and tune the playback and library experience from ByeTunes settings.</description>
-		<description>Designed for Apple Music on iOS 15 and iOS 16. Some library features are unverified on iOS 16.</description>
+		<description>ByeTunes expands Apple Music with music downloads, timed lyrics, animated artwork, playlist tools, library pinning, and interface controls. Built for iOS 15 and iOS 16.</description>
+		<description>DOWNLOADS &amp; IMPORTS — Add download buttons to songs, albums, and playlists, then manage transfers in a queue with pause, resume, cancel, retry, and skip-already-owned controls. Choose FLAC, MP3, or FLAC with MP3 fallback. Import audio files, folders, and M3U playlists, or match Spotify and Deezer links to Apple Music. Playlist links can also create playlists in your library.</description>
+		<description>LYRICS — Fetch timed lyrics for songs or your library, edit them, find them manually, and adjust their timing. Use the free LRCLIB source or Musixmatch with your own token. Lyrics can open automatically in Now Playing. On supported devices with iOS 16.2 or later, ByeTunes can expose Apple Music Sing's vocal slider.</description>
+		<description>MOTION ARTWORK — Bring animated album covers to Now Playing. Choose the standard square animation or the immersive iOS 26 style with tall artwork and album-matched color. Artwork pauses in Low Power Mode.</description>
+		<description>LIBRARY &amp; PLAYLISTS — Pin up to six favorite artists, albums, and playlists at the top of your Library. Create smart playlists, keep Loved, Most Played, Recently Played, and Top Rated playlists in sync, fetch playlist metadata and lyrics, import local music, show star ratings, and use library cleanup and sort-order repair tools.</description>
+		<description>MAKE MUSIC YOURS — Reorder and choose Music's tabs, add Downloads, filter search categories, set a default search tab, and follow download or metadata progress with the status banner.</description>
+		<description>PLATFORM NOTES — Animated artwork, downloads, and the main interface tools support iOS 15 and iOS 16. Pinning includes iOS 16-specific Library handling. Some other library database tools have less iOS 16 verification. Timed lyrics use different Music integrations on iOS 15 and 16; iOS 15 arm64e devices do not use the timed-lyrics hook. Apple Music Sing requires iOS 16.2+ and compatible hardware.</description>
 	</descriptionlist>
 	<changelog>
 		<change>1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.</change>
