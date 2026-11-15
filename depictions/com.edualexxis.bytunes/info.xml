@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package>
+	<name>ByeTunes</name>
+	<version>1.9.9</version>
+	<shortDescription>Bring downloads, synced lyrics, and more to Apple Music.</shortDescription>
+	<descriptionlist>
+		<description>Make Apple Music your own. ByeTunes adds powerful tools for your library, downloads, lyrics, playlists, and interface on iOS 15 and iOS 16.</description>
+		<description>DOWNLOAD MUSIC — Save songs, albums, and playlists to your library, with artwork and metadata. Import audio files and folders, or bring in Spotify and Deezer links. A built-in queue lets you pause, resume, retry, and manage downloads.</description>
+		<description>LYRICS THAT MOVE WITH THE MUSIC — Fetch timed lyrics for songs and your library, edit lyrics yourself, and find lyrics manually. Choose a lyrics source, adjust timing, and open lyrics automatically. Apple Music Sing's vocal slider is available on iOS 16.2 and later.</description>
+		<description>MAKE YOUR LIBRARY YOURS — Create and manage regular and smart playlists, pin favorite items, fetch metadata and lyrics for a playlist, and keep your library tidy with maintenance tools.</description>
+		<description>SHAPE THE INTERFACE — Customize the tab bar and search tabs, add a Downloads tab, and tune the playback and library experience from ByeTunes settings.</description>
+		<description>Designed for Apple Music on iOS 15 and iOS 16. Some library features are unverified on iOS 16.</description>
+	</descriptionlist>
+	<changelog>
+		<change>1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.</change>
+	</changelog>
+</package>

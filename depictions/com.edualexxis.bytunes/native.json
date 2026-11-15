@@ -1,0 +1,99 @@
+{
+  "minVersion": "0.4",
+  "class": "DepictionTabView",
+  "tintColor": "#39FF88",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "ByeTunes",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Bring downloads, synced lyrics, and more to Apple Music on iOS 15 and iOS 16.",
+          "fontSize": 15
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Music, your way",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Save songs, albums, and playlists to your library with artwork and metadata. Import audio files and folders, or bring in Spotify and Deezer links. Manage transfers in a queue with pause, resume, retry, and cancel controls."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Lyrics in sync",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fetch timed lyrics for songs or your library, edit lyrics, and search manually. Choose a lyrics provider, fine-tune timing, or have lyrics open automatically. The Apple Music Sing vocal slider is available on iOS 16.2 and later."
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "A library that feels like yours",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Create regular and smart playlists, pin favorite items, fetch metadata and lyrics for playlists, and use library maintenance tools to keep things tidy. Customize the tab bar and search tabs, and add a dedicated Downloads tab."
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "Designed for Apple Music on iOS 15 and iOS 16. Some library features are unverified on iOS 16.",
+          "fontSize": 13
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Package Info",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Version",
+          "text": "1.9.9"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Bundle ID",
+          "text": "com.edualexxis.bytunes"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Author",
+          "text": "EduAlexxis"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "title": "Section",
+          "text": "Tweaks"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Changelog",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.",
+          "fontSize": 13
+        }
+      ]
+    }
+  ]
+}
