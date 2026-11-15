@@ -48,9 +48,8 @@
           "markdown": "Create regular and smart playlists, pin favorite items, fetch metadata and lyrics for playlists, and use library maintenance tools to keep things tidy. Customize the tab bar and search tabs, and add a dedicated Downloads tab."
         },
         {
-          "class": "DepictionLabelView",
-          "text": "Designed for Apple Music on iOS 15 and iOS 16. Some library features are unverified on iOS 16.",
-          "fontSize": 13
+          "class": "DepictionMarkdownView",
+          "markdown": "**Compatibility**\niOS 15 and iOS 16. Some library features have not been verified on iOS 16."
         },
         {
           "class": "DepictionSeparatorView"
