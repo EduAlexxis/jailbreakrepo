@@ -2,6 +2,7 @@
   "minVersion": "0.4",
   "class": "DepictionTabView",
   "tintColor": "#39FF88",
+  "headerImage": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/banner.jpg",
   "tabs": [
     {
       "class": "DepictionStackView",
