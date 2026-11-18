@@ -17,18 +17,18 @@ Name: GPhotosPixelTweak
 
 Package: com.edualexxis.byetunes
 Name: ByeTunes
-Version: 1.9.9
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: edualexxis
 Author: edualexxis
-Depends: mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 17.0)
 Conflicts: com.edualexxis.amusic, com.edualexxis.byetunes.ios16
 Replaces: com.edualexxis.amusic, com.edualexxis.byetunes.ios16
-Filename: ./debs/com.edualexxis.byetunes_1.9.9_iphoneos-arm64.deb
-Size: 393750
-MD5sum: c9868f1fc24852579e3e60d04c90e70f
-SHA1: 8bd127d4b7903d4ab2e4e98b6b7466e1d3869ae5
-SHA256: 2608f254ef879c3751d3e7b45a0113d6f23ddd2942628e29653c77835e110390
+Filename: ./debs/com.edualexxis.byetunes_1.0_iphoneos-arm64.deb
+Size: 498806
+MD5sum: d64d1abf31f9d3efd73266f63519bfcf
+SHA1: 8aae96fa926d2cf4799ade2982951b564748cdba
+SHA256: f1b979c0b2d816b7b4caf9390eb671b81b3fbe59047fc4e595d8f98b55aa2f83
 Section: Tweaks
 Description: Downloads, synced lyrics, motion artwork, and library tools for Apple Music.
 SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/native-v3.json
