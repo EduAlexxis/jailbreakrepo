@@ -62,7 +62,7 @@
         {
           "class": "DepictionTableTextView",
           "title": "Version",
-          "text": "1.9.9"
+          "text": "1.0"
         },
         {
           "class": "DepictionTableTextView",
@@ -89,7 +89,7 @@
         },
         {
           "class": "DepictionLabelView",
-          "text": "1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.",
+          "text": "1.0 — Initial release\n\nDownloads and imports\n- Download buttons in Search and on artist, album and playlist pages (FLAC, MP3, or FLAC with MP3 fallback)\n- Download queue with progress; skips songs already in your library\n- Import from Spotify and Deezer links, or from local files, folders and playlists\n- Fetch metadata, covers and lyrics for songs, playlists or your whole library\n\nLyrics\n- Time-synced lyrics from free LRCLIB or Musixmatch (your own token)\n- Word-by-word lyrics: Apple Music's own on iOS 16.2 and newer, a tweak-drawn version on earlier iOS\n- Manual lyrics search with Static, Synced and Word Synced results\n- Lyrics editor and timing offset control; open lyrics automatically\n- Apple Music Sing vocal slider on iOS 16.2 and newer\n\nNow Playing and artwork\n- Animated artwork, standard or full-screen iOS 26 style\n- Love button in Now Playing\n\nLibrary and playlists\n- Pin up to six artists, albums and playlists to the top of your Library\n- Loved, Most Played, Recently Played and smart playlists\n- Duplicate finder, plus library repair tools\n\nInterface\n- Tab manager, Downloads tab, search filters and a default search tab\n- Redesigned Settings\n\nFor iOS 15 and iOS 16, rootless jailbreaks.",
           "fontSize": 13
         }
       ]

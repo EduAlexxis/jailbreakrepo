@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package>
 	<name>ByeTunes</name>
-	<version>1.9.9</version>
+	<version>1.0</version>
 	<shortDescription>Downloads, synced lyrics, motion artwork, and library tools for Apple Music.</shortDescription>
 	<descriptionlist>
 		<description>ByeTunes expands Apple Music with music downloads, timed lyrics, animated artwork, playlist tools, library pinning, and interface controls. Built for iOS 15 and iOS 16.</description>
@@ -13,6 +13,11 @@
 		<description>PLATFORM NOTES — Animated artwork, downloads, and the main interface tools support iOS 15 and iOS 16. Pinning includes iOS 16-specific Library handling. Some other library database tools have less iOS 16 verification. Timed lyrics use different Music integrations on iOS 15 and 16; iOS 15 arm64e devices do not use the timed-lyrics hook. Apple Music Sing requires iOS 16.2+ and compatible hardware.</description>
 	</descriptionlist>
 	<changelog>
-		<change>1.9.9 — Improved duplicate detection when importing Spotify and Deezer playlists.</change>
+		<change>1.0 — Initial release.</change>
+		<change>Downloads and imports: Search and page download buttons, queue, Spotify and Deezer link import, local import, library-wide metadata and lyrics.</change>
+		<change>Lyrics: LRCLIB and Musixmatch, word-by-word lyrics, manual lyrics search, editor and timing control, Apple Music Sing on iOS 16.2+.</change>
+		<change>Now Playing: animated artwork (standard and iOS 26 style) and a love button.</change>
+		<change>Library: pins, Loved and smart playlists, duplicate finder, tab manager and search filters.</change>
+		<change>Requires iOS 15 or iOS 16 on a rootless jailbreak.</change>
 	</changelog>
 </package>
