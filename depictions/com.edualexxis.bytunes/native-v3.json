@@ -19,6 +19,53 @@
           "fontSize": 15
         },
         {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{160, 284}",
+          "screenshots": [
+            {
+              "accessibilityText": "Download anything",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/01.jpg"
+            },
+            {
+              "accessibilityText": "Import from Spotify or Deezer",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/02.jpg"
+            },
+            {
+              "accessibilityText": "Lyrics, word by word",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/03.jpg"
+            },
+            {
+              "accessibilityText": "Find the right lyrics",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/04.jpg"
+            },
+            {
+              "accessibilityText": "Fine-tune the timing",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/05.jpg"
+            },
+            {
+              "accessibilityText": "Animated artwork",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/06.jpg"
+            },
+            {
+              "accessibilityText": "Love it from the player",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/07.jpg"
+            },
+            {
+              "accessibilityText": "Pin your favorites",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/08.jpg"
+            },
+            {
+              "accessibilityText": "Your Library, your way",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/09.jpg"
+            },
+            {
+              "accessibilityText": "Simple, clean settings",
+              "url": "https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/screenshots/10.jpg"
+            }
+          ]
+        },
+        {
           "class": "DepictionSeparatorView"
         },
         {
