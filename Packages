@@ -19,16 +19,16 @@ Package: com.edualexxis.byetunes
 Name: ByeTunes
 Version: 1.0
 Architecture: iphoneos-arm64
-Maintainer: edualexxis
-Author: edualexxis
+Maintainer: EduAlexxis
+Author: EduAlexxis
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 17.0)
 Conflicts: com.edualexxis.amusic, com.edualexxis.byetunes.ios16
 Replaces: com.edualexxis.amusic, com.edualexxis.byetunes.ios16
 Filename: ./debs/com.edualexxis.byetunes_1.0_iphoneos-arm64.deb
-Size: 498806
-MD5sum: d64d1abf31f9d3efd73266f63519bfcf
-SHA1: 8aae96fa926d2cf4799ade2982951b564748cdba
-SHA256: f1b979c0b2d816b7b4caf9390eb671b81b3fbe59047fc4e595d8f98b55aa2f83
+Size: 498824
+MD5sum: 21bb3582d2df101e20a15c6d352cc02f
+SHA1: 98ce3440b541147e62e60a75e70179f904410476
+SHA256: d80e28ea959de86e7985188a0df93882d664a09c9442849f40376cb6386989ca
 Section: Tweaks
 Description: Downloads, synced lyrics, motion artwork, and library tools for Apple Music.
 SileoDepiction: https://edualexxis.github.io/jailbreakrepo/depictions/com.edualexxis.bytunes/native-v3.json
